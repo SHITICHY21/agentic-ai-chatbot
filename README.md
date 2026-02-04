@@ -7,9 +7,6 @@ An end-to-end **Agentic AI Chatbot** that combines a **FastAPI backend** with a 
 
 ▶️ **Agentic AI Chatbot – Live Demo**
 
-> Upload your demo video (`Demo Chatbot.mp4`) directly in the GitHub README editor.
-> GitHub will automatically embed the video player here.
-> 
 [![Demo Video](https://img.shields.io/badge/Click%20to-Watch%20Demo-blue?style=for-the-badge)](
 https://github.com/SHITICHY21/agentic-ai-chatbot/blob/main/Demo%20Chatbot.mp4
 )
@@ -105,6 +102,7 @@ Will start:
 ## Adnan Faisal
 - 🎓 Department: Computer Science & Engineering (CSE), CUET  
 - 🔗 GitHub: [AJFaisal002](https://github.com/AJFaisal002)
+
 
 
 
