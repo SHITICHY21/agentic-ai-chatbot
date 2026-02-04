@@ -5,16 +5,15 @@
 An end-to-end **Agentic AI Chatbot** that combines a **FastAPI backend** with a **Streamlit frontend**, supporting multiple LLM providers (OpenAI & Groq) with optional web search via Tavily. The project is designed with a **clean, modular, production-ready architecture** and can be run locally with a single command.
 
 
-## 🎥 Demo Video
-
 ▶️ **Agentic AI Chatbot – Live Demo**
 
 > Upload your demo video (`Demo Chatbot.mp4`) directly in the GitHub README editor.
 > GitHub will automatically embed the video player here.
 
-```
-[https://github.com/your-username/agentic-ai-chatbot/assets/XXXXXXXX/Demo%20Chatbot.mp4](https://github.com/SHITICHY21/agentic-ai-chatbot/blob/main/Demo%20Chatbot.mp4)
-```
+[![Demo Video](https://img.shields.io/badge/Click%20to-Watch%20Demo-blue?style=for-the-badge)](
+https://github.com/SHITICHY21/<REPO_NAME>/blob/main/Demo%20Chatbot.mp4
+)
+
 
 
 ## ✨ Features
@@ -116,8 +115,13 @@ This will start:
 * **Streamlit frontend** → [http://localhost:8501](http://localhost:8501)
 
 
-## 👤 Author
+## 👥 Contributors
 
-**Your Name**
-Department / University
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+### 🔹 Shiti Chowdhury
+- 🎓 Department: Computer Science & Engineering (CSE), CUET  
+- 🔗 GitHub: [SHITICHY21](https://github.com/SHITICHY21)
+
+### 🔹 Adnan Faisal
+- 🎓 Department: Computer Science & Engineering (CSE), CUET  
+- 🔗 GitHub: [AJFaisal002](https://github.com/AJFaisal002)
+
