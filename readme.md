@@ -1,6 +1,6 @@
 # 🤖 Agentic AI Chatbot
 
-**FastAPI + Streamlit + Groq / OpenAI powered Agentic Chatbot**
+**FastAPI + Streamlit + Groq and OpenAI powered Agentic Chatbot**
 
 An end-to-end **Agentic AI Chatbot** that combines a **FastAPI backend** with a **Streamlit frontend**, supporting multiple LLM providers (OpenAI & Groq) with optional web search via Tavily. The project is designed with a **clean, modular, production-ready architecture** and can be run locally with a single command.
 
@@ -105,6 +105,7 @@ Will start:
 ## Adnan Faisal
 - 🎓 Department: Computer Science & Engineering (CSE), CUET  
 - 🔗 GitHub: [AJFaisal002](https://github.com/AJFaisal002)
+
 
 
 
