@@ -11,7 +11,7 @@ An end-to-end **Agentic AI Chatbot** that combines a **FastAPI backend** with a 
 > GitHub will automatically embed the video player here.
 
 [![Demo Video](https://img.shields.io/badge/Click%20to-Watch%20Demo-blue?style=for-the-badge)](
-https://github.com/SHITICHY21/<REPO_NAME>/blob/main/Demo%20Chatbot.mp4
+[https://github.com/SHITICHY21/<REPO_NAME>/blob/main/Demo%20Chatbot.mp4](https://github.com/SHITICHY21/agentic-ai-chatbot/blob/main/Demo%20Chatbot.mp4)
 )
 
 
@@ -82,15 +82,8 @@ python -m venv venv
 ```
 
 **Windows**
-
 ```bash
 venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-source venv/bin/activate
 ```
 
 ### 3️⃣ Install dependencies
@@ -99,8 +92,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
-
 ## ▶️ Run the Application
 
 ### 🚀 One-Command Run (Recommended)
@@ -108,7 +99,6 @@ pip install -r requirements.txt
 ```bash
 python run_app.py
 ```
-
 This will start:
 
 * **FastAPI backend** → [http://127.0.0.1:8000](http://127.0.0.1:8000)
@@ -117,11 +107,12 @@ This will start:
 
 ## 👥 Contributors
 
-### 🔹 Shiti Chowdhury
+##🔹 Shiti Chowdhury
 - 🎓 Department: Computer Science & Engineering (CSE), CUET  
 - 🔗 GitHub: [SHITICHY21](https://github.com/SHITICHY21)
 
-### 🔹 Adnan Faisal
+##🔹 Adnan Faisal
 - 🎓 Department: Computer Science & Engineering (CSE), CUET  
 - 🔗 GitHub: [AJFaisal002](https://github.com/AJFaisal002)
+
 
