@@ -9,9 +9,12 @@ An end-to-end **Agentic AI Chatbot** that combines a **FastAPI backend** with a 
 
 > Upload your demo video (`Demo Chatbot.mp4`) directly in the GitHub README editor.
 > GitHub will automatically embed the video player here.
+> 
+[![Demo Video](https://img.shields.io/badge/Click%20to-Watch%20Demo-blue?style=for-the-badge)](
+https://github.com/SHITICHY21/agentic-ai-chatbot/blob/main/Demo%20Chatbot.mp4
+)
 
 https://github.com/SHITICHY21/agentic-ai-chatbot/blob/main/Demo%20Chatbot.mp4
-
 
 
 ## ✨ Features
@@ -25,8 +28,6 @@ https://github.com/SHITICHY21/agentic-ai-chatbot/blob/main/Demo%20Chatbot.mp4
 * 🎨 Streamlit interactive chat UI
 * 🚀 One-command startup (Backend + Frontend together)
 * 🔐 Secure API key handling using environment variables
-
----
 
 ## 🧱 Project Structure
 
@@ -52,9 +53,6 @@ agentic_chatbot/
 ├── .env.example
 └── README.md
 ```
-
----
-
 ## 🛠️ Tech Stack
 
 * **Backend**: FastAPI, Uvicorn
@@ -77,10 +75,6 @@ cd agentic-ai-chatbot
 
 ```bash
 python -m venv venv
-```
-
-**Windows**
-```bash
 venv\Scripts\activate
 ```
 
@@ -97,11 +91,10 @@ pip install -r requirements.txt
 ```bash
 python run_app.py
 ```
-This will start:
+Will start:
 
 * **FastAPI backend** → [http://127.0.0.1:8000](http://127.0.0.1:8000)
 * **Streamlit frontend** → [http://localhost:8501](http://localhost:8501)
-
 
 ## 👥 Contributors
 
@@ -112,5 +105,6 @@ This will start:
 ## Adnan Faisal
 - 🎓 Department: Computer Science & Engineering (CSE), CUET  
 - 🔗 GitHub: [AJFaisal002](https://github.com/AJFaisal002)
+
 
 
